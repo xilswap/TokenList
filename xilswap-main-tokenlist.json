@@ -1,0 +1,81 @@
+{
+  "name": "XILSwap Menu",
+  "timestamp": "2022-01-01T00:00:00Z",
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/xilswap/Repository/main/img/logo.png",
+  "keywords": [
+    "XILSwap",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "USD Coin",
+      "address": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "symbol": "USDC",
+      "decimals": 6,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/usdc.jpg"
+    },
+    {
+      "name": "XILSwap Token",
+      "address": "0x9E0e5a24A6685A9A3877aff70365eC2261fe8Aef",
+      "symbol": "XIL",
+      "decimals": 18,
+      "chainId": 137,
+      "logoURI": "https://raw.githubusercontent.com/xilswap/Repository/main/img/logo.png"
+    },	    
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xcB1e72786A6eb3b44C2a2429e317c8a2462CFeb1",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x6B175474E89094C44Da98b954EedeAC495271d0F/logo.png"
+    },
+    {
+      "name": "Ether",
+      "address": "0x714550C2C1Ea08688607D86ed8EeF4f5E4F22323",
+      "symbol": "ETH",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },	  
+    {
+      "name": "USDCToken",
+      "address": "0xd22c5DbE967C2f9ac302729354fE32eB88b6B645",
+      "symbol": "USDC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+    },
+    {
+      "name": "USDTToken",
+      "address": "0x7E1cF971de65eB065A72595B3Ac9e1b9Cc630564",
+      "symbol": "USDT",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "name": "Wrapped Matic",
+      "address": "0x9d91d1f8Ac4CF6C698a1a15c738323E2ad6F23E4",
+      "symbol": "WMATIC",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0x7D1AfA7B718fb893dB30A3aBc0Cfc608AaCfeBB0/logo.png"
+    },
+    {
+      "name": "XILSwap Token",
+      "address": "0xA3A53C6ae8434a0Bb821b33931eA261D0e96faA3",
+      "symbol": "XIL",
+      "decimals": 18,
+      "chainId": 80001,
+      "logoURI": "https://raw.githubusercontent.com/gmonksnft/TokenList/main/XILS-img/XILSToken.png"
+    }	  
+  ]
+}
